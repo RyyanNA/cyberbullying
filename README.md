@@ -15,4 +15,4 @@ Hello, I'm Ryan. I come from Indonesia. I created this website for my school ass
 - [GF❤️](https://www.instagram.com/ayuwedda/)
 
 ## Update
-- -
+- 
