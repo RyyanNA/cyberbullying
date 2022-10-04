@@ -16,4 +16,4 @@ Hello, I'm Ryan. I come from Indonesia. I created this website for my school ass
 [click](https://ryyanna.github.io/cyberbullying/)
 
 ## Update
-- 
+- New sentence in 'overcome' has been added
