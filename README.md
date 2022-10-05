@@ -13,7 +13,7 @@ Hello, I'm Ryan. I come from Indonesia. I created this website for my school ass
 - [@GF❤️](https://www.instagram.com/ayuwedda/)
 
 ## Go To Website
-[go..](https://ryyanna.github.io/cyberbullying/)
+[go...](https://ryyanna.github.io/cyberbullying/)
 
 ## Update
 - New sentence in 'overcome' has been added
