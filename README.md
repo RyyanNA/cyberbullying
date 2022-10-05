@@ -1,7 +1,7 @@
 # CYBERBULLYING
 Hello, I'm Ryan. I come from Indonesia. I created this website for my school assignment which contains information about Cyberbullying.
 
-## Contents:
+## Contents
 - Definition
 - Characteristics
 - Impact
